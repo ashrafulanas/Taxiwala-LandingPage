@@ -1,0 +1,233 @@
+/* // ExtraSmall devices (up to  575.98px) */
+@media (max-width: 575.98px) {
+  /***************** 
+Header Section CSS
+*****************/
+  .logo {
+    width: 50%;
+  }
+  .menu ul li a {
+    text-align: right;
+    padding-top: 12px !important;
+  }
+  .menu ul li a:hover {
+    border-bottom: 1px solid transparent;
+  }
+
+  /* slider */
+  .slideContent {
+    right: -30%;
+  }
+  .slideContent h1 {
+    font-size: 24px;
+    font-weight: 500;
+  }
+  .slideContent p {
+    font-size: 12px;
+    color: white;
+    margin-bottom: 30px;
+  }
+  .slideContent a {
+    font-size: 15px;
+    color: white;
+    padding: 10px 40px;
+    border: 1px solid white;
+  }
+  .slideContent a:hover {
+    color: var(--color-6);
+    padding: 10px 40px;
+    border: 1px solid var(--color-6);
+  }
+  /* slider end */
+  /*  About Section */
+  .aboutSection {
+    margin: 30px 0 0px !important;
+  }
+  .aboutImage {
+  }
+  .aboutBackgroundImage img {
+    /* max-width: 65%;
+    top: 30px;
+    left: 50%; */
+  }
+  .aboutImage .img1 {
+    padding-top: 0px;
+    width: 70%;
+
+    margin: auto;
+    display: block;
+  }
+  .aboutImage .img2 {
+    margin-top: 20px;
+  }
+  .aboutImage h3 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+  }
+
+  .aboutText {
+    text-align: center;
+    margin: 10px 20px 0 20px;
+  }
+  .aboutText .commonHead {
+    margin-bottom: 15px;
+    font-size: 20px;
+  }
+  .aboutText .commonTitle {
+    font-size: 22px;
+    line-height: 1.2;
+    margin-bottom: 15px;
+  }
+  .aboutText .highlightText {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  .aboutText p {
+    margin-bottom: 30px;
+    font-size: 14px;
+  }
+  .aboutText button {
+  }
+  .aboutText button i {
+  }
+  /*  About Section End */
+
+  /* service section */
+
+  .serviceSection {
+    margin: 50px 0 0px;
+  }
+
+  .serviceSection .sectionTitle {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .serviceSection .sectionTitle .commonHead {
+    margin-bottom: 15px;
+  }
+  .serviceSection .sectionTitle .commonTitle {
+    font-size: 25px;
+  }
+  .serviceSection .serviceCard {
+    margin: 30px 10px 0;
+  }
+  .serviceSection .serviceCard:hover {
+  }
+  .serviceSection .serviceCard .iconBox {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  .serviceSection .serviceCard i {
+    padding: 30px;
+
+    font-size: 27px;
+  }
+
+  .serviceSection .cardText {
+  }
+  .serviceSection .cardText h3 {
+    margin-bottom: 30px;
+  }
+  .serviceSection .cardText p {
+    margin-bottom: 40px;
+  }
+
+  /* service section end */
+  /* feature section */
+  .featureHeader {
+    text-align: center;
+  }
+  .featureSection .sectionTitle .commonHead {
+    margin-bottom: 15px;
+  }
+  .featureSection .sectionTitle .commonTitle {
+    font-size: 25px;
+  }
+  .featureIcon {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  .featureText p {
+    text-align: center;
+  }
+  /* feature section */
+
+  /* price */
+  .pricingSection .sectionTitle .commonHead {
+    margin-bottom: 15px;
+  }
+  .pricingSection .sectionTitle .commonTitle {
+    font-size: 25px;
+  }
+  /* price end*/
+  /* contact */
+
+  .contactInformation {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .contactInformation .commonHead {
+    margin-bottom: 15px;
+  }
+  .contactInformation .commonTitle {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  .flex {
+    justify-content: center;
+  }
+
+  .inframe {
+    width: 100%;
+    height: 250px;
+  }
+  /* contact end */
+  .blogSection .sectionTitle .commonHead {
+    margin-bottom: 15px;
+  }
+  .blogSection .sectionTitle .commonTitle {
+    font-size: 25px;
+  }
+
+  .testimonialSection .sectionTitle .commonHead {
+    margin-bottom: 15px;
+  }
+  .testimonialSection .sectionTitle .commonTitle {
+    font-size: 25px;
+    color: white;
+  }
+
+  /* footerMenu */
+  .footerMenu {
+    text-align: center;
+    padding: 40px 0 60px;
+  }
+  .footerMenu .widget-icon,
+  .widget-list,
+  .widget-img,
+  .widget-address {
+    margin-top: 20px;
+  }
+  .footerMenu .widget-title {
+    text-align: center !important;
+  }
+  .widget-address i {
+    margin-right: 5px;
+  }
+  /* footerMenu end */
+  .callActionText h1 {
+    font-size: 19px;
+
+    padding-bottom: 5px;
+  }
+  .callActionText p {
+    font-size: 14px;
+    padding-bottom: 15px;
+  }
+  .callActionText a {
+    font-size: 15px;
+    padding: 10px 20px;
+  }
+}

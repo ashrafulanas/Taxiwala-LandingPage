@@ -1,0 +1,117 @@
+
+Head Link File List
+<!-- Google Font Link -->
+<!-- fontawesome -->
+<!-- themify -->
+<!-- Bootstrap Link -->
+<!-- Css link -->
+
+<body>
+    <!-- js scripts -->
+    <!-- js plugin scripts -->
+    <!-- js bootstrap scripts -->
+    <!-- js custom scripts -->
+</body>
+
+
+Font Styles
+font-family: 'Open Sans', sans-serif;
+font-family: 'Fira Sans Condensed', sans-serif;
+
+<!-- Blog -->
+
+    <div class="blogSection">
+      <div class="container">
+        <div class="row">
+          <div class="sectionTitle" data-aos="zoom-in" data-aos-duration="3000">
+            <div class="col-12">
+              <!-- data-aos="zoom-out" data-aos-duration="3000" -->
+              <div class="commonHead">Latest news</div>
+              <div class="commonTitle">Latest From Blog</div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4" data-aos="fade-up" data-aos-duration="5000">
+            <!--  data-aos="zoom-in-right"
+            data-aos-duration="5000" -->
+            <div class="blogCard">
+              <div class="cardImage">
+                <img src="/image/choose-us-1.jpg" class="img-fluid" alt="" />
+              </div>
+              <div class="blogText">
+                <div class="category">
+                  <a href="#">Design</a>
+
+                  <a href="#">July 15, 2021</a>
+                </div>
+                <div class="title">
+                  <h4>A RELIABLE WAY TO TRAVEL</h4>
+                </div>
+                <div class="commentText">
+                  <a href="#"
+                    ><i class="fa-regular fa-message"></i> Comments
+                  </a>
+                  <a href="#"><i class="fa-regular fa-heart"></i> Likes </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4" data-aos="fade-down" data-aos-duration="5000">
+            <!-- data-aos="zoom-in" data-aos-duration="5000" -->
+            <div class="blogCard">
+              <div class="cardImage">
+                <img src="/image/choose-us-2.jpg" class="img-fluid" alt="" />
+              </div>
+              <div class="blogText">
+                <div class="category">
+                  <a href="#">Design</a>
+
+                  <a href="#">July 15, 2021</a>
+                </div>
+                <div class="title">
+                  <h4>WELL TRAINED DRIVERS ON DUTY</h4>
+                </div>
+                <div class="commentText">
+                  <a href="#"
+                    ><i class="fa-regular fa-message"></i> Comments
+                  </a>
+                  <a href="#"><i class="fa-regular fa-heart"></i> Likes </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4" data-aos="fade-up" data-aos-duration="5000">
+            <!-- data-aos="zoom-in-left"
+            data-aos-duration="5000" -->
+            <div class="blogCard">
+              <div class="cardImage">
+                <img src="/image/choose-us-3.jpg" class="img-fluid" alt="" />
+              </div>
+
+              <div class="blogText">
+                <div class="category">
+                  <a href="#">Design</a>
+
+                  <a href="#">July 15, 2021</a>
+                </div>
+                <div class="title">
+                  <h4>WHY SHOULD COMPANIES OFFER TAXI</h4>
+                </div>
+                <div class="commentText">
+                  <a href="#"
+                    ><i class="fa-regular fa-message"></i> Comments
+                  </a>
+                  <a href="#"><i class="fa-regular fa-heart"></i> Likes </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Blog end -->
+
+   

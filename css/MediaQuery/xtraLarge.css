@@ -1,0 +1,26 @@
+/* // X-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1200px) and (max-width: 1330px) {
+  /* about */
+  .aboutBackgroundImage img {
+    top: 15px;
+  }
+
+  .aboutImage .img1 {
+    padding-top: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  .aboutImage .img2 {
+    max-width: 100%;
+    height: auto;
+  }
+  .aboutImage h3 {
+    margin-top: 50px;
+    font-size: 25px;
+  }
+  .aboutText {
+    margin: 20px 0 0 35px;
+    max-width: 505px;
+  }
+  /* aboutend  */
+}
